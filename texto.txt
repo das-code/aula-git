@@ -1,1 +1,2 @@
 Meu texto alterado.
+O readme foi adicionado ao git
